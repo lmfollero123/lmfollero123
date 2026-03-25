@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Greeting Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Follero%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20System%20Builder%20|%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Luis%20Miguel%20N.%20Follero%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20System%20Builder%20|%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
