@@ -148,6 +148,9 @@ A fully cross-platform mobile marketplace application. Features real-time produc
 
 A cross-platform desktop Point of Sale application built for **HONOR PH**, designed for frontline cashiers. Powered by Electron and React, with Google Authenticator 2FA and secure local data handling via Electron IPC.
 
+<img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-desktop-1.png?raw=true" width="49%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-desktop-3.png?raw=true" width="49%"/>
+<img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-desktop-2.png?raw=true" width="49%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-desktop-4.png?raw=true" width="49%"/>
+
 **Key Features:**
 - 🖥️ Native desktop app for Windows, macOS & Linux via Electron
 - 🔒 Google Authenticator 2FA for secure staff logins
@@ -166,6 +169,9 @@ A cross-platform desktop Point of Sale application built for **HONOR PH**, desig
 > **Web Backend · Laravel 12 + React + Inertia.js**
 
 A full-featured backend inventory and operations management system powering the HONOR PH POS ecosystem. Handles the complete inventory lifecycle including receiving, transfers, returns, and withdrawals — with role-based access and serial number tracking.
+
+<img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-backend-1.png?raw=true" width="49%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-backend-5.png?raw=true" width="49%"/>
+<img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-backend-3.png?raw=true" width="49%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/pos-backend-4.png?raw=true" width="49%"/>
 
 **Key Features:**
 - ⚡ Laravel 12 + React 19 via Inertia.js for a seamless SPA experience
