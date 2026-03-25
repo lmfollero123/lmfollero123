@@ -143,6 +143,46 @@ A fully cross-platform mobile marketplace application. Features real-time produc
 
 ---
 
+### 🖥️ HONOR PH — POS Desktop Application *(In Progress)*
+> **Electron Desktop App · React + TypeScript**
+
+A cross-platform desktop Point of Sale application built for **HONOR PH**, designed for frontline cashiers. Powered by Electron and React, with Google Authenticator 2FA and secure local data handling via Electron IPC.
+
+**Key Features:**
+- 🖥️ Native desktop app for Windows, macOS & Linux via Electron
+- 🔒 Google Authenticator 2FA for secure staff logins
+- 🛒 Fast product search, cart management & transaction flow
+- 📦 Offline-capable with local data via Electron IPC
+- 🔷 TypeScript throughout for reliability and type safety
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🗄️ HONOR PH — POS Backend & Inventory System *(In Progress)*
+> **Web Backend · Laravel 12 + React + Inertia.js**
+
+A full-featured backend inventory and operations management system powering the HONOR PH POS ecosystem. Handles the complete inventory lifecycle including receiving, transfers, returns, and withdrawals — with role-based access and serial number tracking.
+
+**Key Features:**
+- ⚡ Laravel 12 + React 19 via Inertia.js for a seamless SPA experience
+- 📦 Full inventory lifecycle: Receiving Orders, Transfers In/Out, Returns
+- 🔖 Serial number tracking per product across all transactions
+- 🔐 Role-based access control (Admin, Manager, Staff)
+- 🖨️ PDF report generation for all major transaction types
+- 🏪 Multi-store & multi-warehouse support
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
 ## 💼 What I Build
 
 ```
