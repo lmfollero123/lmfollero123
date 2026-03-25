@@ -78,6 +78,71 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building robust
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏛️ Barangay Culiat Public Facilities Reservation System
+> **Capstone Project · LGU Web Application**
+
+An AI-driven web application that modernizes facility reservation management for Local Government Units. Residents can book public facilities online while administrators get comprehensive tools for managing reservations and preventing scheduling conflicts.
+
+<img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/bcfrs-1.png?raw=true" width="49%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/bcfrs-4.png?raw=true" width="49%"/>
+
+**Key Features:**
+- 🤖 AI-powered conflict detection with real-time alternative slot generation
+- 🔐 Role-based access (Resident, Staff, Admin) with 2FA via OTP
+- 📋 8-condition auto-approval system reducing admin workload by 60%
+- 🗺️ Haversine formula distance-based facility recommendations
+- 🔒 Philippine Data Privacy Act (RA 10173) compliance
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 🏨 Luz De Luna Hotel HR Management System
+> **Enterprise HR Platform · Hospitality Industry**
+
+A comprehensive enterprise-grade Human Resource Management System designed for luxury hospitality operations. Covers the complete HR lifecycle from onboarding to payroll to real-time analytics.
+
+<img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/hr-1.png?raw=true" width="49%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/hr-2.png?raw=true" width="49%"/>
+
+**Key Features:**
+- 👥 Core HCM with full employee lifecycle management
+- 💰 Automated payroll processing with tax calculations & deductions
+- 📅 Multi-level leave approval workflows with balance tracking
+- ⏰ Time & attendance with overtime tracking
+- 📊 Analytics dashboard with Chart.js visualization & HR KPIs
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+---
+
+### 📱 Online Marketplace App
+> **Cross-Platform Mobile App · Flutter & Supabase**
+
+A fully cross-platform mobile marketplace application. Features real-time product listings, user authentication, push notifications via Firebase, and a PostgreSQL backend through Supabase — all from a single Flutter codebase.
+
+<img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/owtw-1.png?raw=true" width="24%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/owtw-2.png?raw=true" width="24%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/owtw-4.png?raw=true" width="24%"/> <img src="https://github.com/lmfollero123/lmfollero123/blob/main/screenshots/owtw-5.png?raw=true" width="24%"/>
+
+**Key Features:**
+- 📲 Cross-platform: Android, iOS, Web, Windows, macOS, Linux
+- ⚡ Real-time data sync with Supabase PostgreSQL
+- 🔔 Firebase Cloud Messaging (FCM) push notifications
+- 🔒 Secure storage with `flutter_secure_storage`
+- 🔄 State management using Flutter Riverpod
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
 ## 💼 What I Build
 
 ```
@@ -95,7 +160,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building robust
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-lmfollero123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmfollero123)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:follero.luismiguel.noora@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmfollero123@gmail.com)
 
 </div>
 
